@@ -1,0 +1,39 @@
+@charset "ISO-8859-1";
+.image {
+	width:auto;
+	height:900px;
+}
+div {
+	display:block;
+}
+.title1 {
+	color:white;
+	font-weight:500;
+	font-size:3.2vw;
+	margin-right:4%;
+	margin-left:4%;
+	padding-top:4%;
+	padding-left:8%;
+}
+.title
+{
+	min-height:150px;
+	height:auto;
+	position:absolute;
+	background-color:black;
+	opacity:.7;
+	align-items:center;
+	justify-content:flex-start;
+	bottom:10%;
+	left:2%;
+	width:96%;
+	margin-bottom:9%;
+}
+.overlap {
+	position:relative;
+}
+.bg {
+	background-image:url('/images/795cabc4647f73b365e2e6eabd0f34dc.png');
+	height:747px;
+	
+}
